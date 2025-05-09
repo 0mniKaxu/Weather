@@ -78,7 +78,6 @@ export function WeatherHeader({
 
       <div className="flex items-center gap-2">
         <span className="text-sm text-white/90">{currentDate}</span>
-        </div>
       </div>
     </div>
   )
