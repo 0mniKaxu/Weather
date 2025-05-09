@@ -78,30 +78,6 @@ export function WeatherHeader({
 
       <div className="flex items-center gap-2">
         <span className="text-sm text-white/90">{currentDate}</span>
-        <div className="flex items-center gap-2">
-          <img
-            src="/placeholder-user.jpg"
-            alt="User"
-            className="h-8 w-8 rounded-full border border-white/20 object-cover"
-          />
-          <div className="hidden flex-col text-xs sm:flex">
-            <span className="font-medium text-white">Sam Ross</span>
-            <span className="text-white/70">Admin</span>
-          </div>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="16"
-            height="16"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            className="text-white/70"
-          >
-            <path d="m6 9 6 6 6-6" />
-          </svg>
         </div>
       </div>
     </div>
