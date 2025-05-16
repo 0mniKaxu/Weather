@@ -2,6 +2,9 @@
 
 A modern, responsive weather application built with Next.js, React, and TypeScript. The app provides real-time weather information with a beautiful, glassmorphic UI design.
 
+## Preview
+![image](preview.png)
+
 ## Features
 
 - 🌍 **Automatic Location Detection**
